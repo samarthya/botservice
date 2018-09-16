@@ -1,0 +1,18 @@
+{
+  "name": "buildbot-service",
+  "version": "1.0.0",
+  "description": "Express service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "Express",
+    "service"
+  ],
+  "author": "Saurabh Sharma (saurabh777@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
